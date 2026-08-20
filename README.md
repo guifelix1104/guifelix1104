@@ -17,20 +17,20 @@ Curioso por tecnologia, sempre estudando algo novo e buscando minha primeira opo
   <a href="https://www.linkedin.com/in/guilherme-felix-b47a42340/">
     <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gui_felix_x/">
-    <img src="https://img.shields.io/badge/Instagram-@gui_felix_x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 🧠 O que estou aprendendo
 
-- 💻 Lógica de programação e fundamentos de dev
+- 🐍 Python
+- 🔤 C
 - 🌐 Desenvolvimento web (front-end e back-end)
 - 🗄️ Banco de dados
 - 🔧 Git e controle de versão
 - 📚 Boas práticas de código
+
+🎯 **Objetivo atual:** Buscando minha primeira oportunidade como estagiário em desenvolvimento, enquanto aprofundo meus conhecimentos em Python, C e web.
 
 ---
 
@@ -43,6 +43,12 @@ Curioso por tecnologia, sempre estudando algo novo e buscando minha primeira opo
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em breve — assim que meus primeiros repositórios estiverem prontos, eles vão aparecer aqui!
 
 ---
 
